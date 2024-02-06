@@ -1,0 +1,27 @@
+.welder-table{
+    color: rgb(21, 82, 151);
+    margin: 2vw 0 0 0;
+    width: 90%;
+}
+.welder-table h2{
+    font-size: 18px;
+}
+.welder-table table{
+    margin: 0;
+    border-collapse: collapse; 
+    border-spacing: 0;
+}
+.table-header{
+    font-weight: bold;
+    font-size: max(18px, 14px);
+    border-bottom: 5px double blue;
+    padding: 0 10px;
+}
+
+.table-row-item{
+    font-size: 14px;
+    text-align: center;
+    padding: 0 1vw;
+    border-bottom: 1px solid blue;
+    height: 3vh;
+}
